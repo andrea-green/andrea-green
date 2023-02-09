@@ -1,4 +1,5 @@
-# Hi there 👋 I'm Andrea!
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋+I'm+Andrea!)](https://git.io/typing-svg)
+
 
 ## I am a passionate and creative full stack software engineer based in Montana. 
 
@@ -7,7 +8,7 @@
 - :grin: I'm currently learning Python. 
 - 💬 Ask me about software engineering or knitting. 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andrea-green-201146245/)
-- :cherry_blossom:Fun fact: I love knitting and cooking! 
+- :cherry_blossom:Fun fact: I love knitting! 
 
 ## Languages and Tools:
 
@@ -36,4 +37,4 @@
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-
+[![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrea-green)](https://github.com/andrea-green/github-readme-stats)
