@@ -8,7 +8,7 @@
 - :grin: I'm currently learning Python. 
 - 💬 Ask me about software engineering or knitting. 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andrea-green-201146245/)
-- :cherry_blossom:Fun fact: I love knitting! 🧶
+- :cherry_blossom:Fun fact: I love to knit! 🧶
 
 ## Languages and Tools:
 
