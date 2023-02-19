@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋+I'm+Andrea!)](https://git.io/typing-svg)
 
 
-## I am a passionate and creative full stack software engineer based in Montana. 
+## I am a passionate and creative full stack software engineer from Montana. 
 
 - 🔭 I’m currently working on a boba tea site. 
 - 🌱 I studied at AppAcademy and Seattle University. 
