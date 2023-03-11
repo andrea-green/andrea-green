@@ -3,7 +3,6 @@
 
 ## I am a passionate and creative full stack software engineer from Montana. 
 
-- 🔭 I’m currently working on a boba tea site. 
 - 🌱 I studied at AppAcademy and Seattle University. 
 - :grin: I'm currently learning Python. 
 - 💬 Ask me about software engineering or knitting. 
