@@ -4,7 +4,6 @@
 ## I am a passionate and creative full stack software engineer with a healthcare background. 
 
 - 🌱 I studied at AppAcademy and Seattle University. 
-- :grin: I'm currently learning Python. 
 - 💬 Ask me about software engineering or knitting. 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andrea-green-201146245/)
 - :cherry_blossom:Fun fact: I love to knit! 🧶
