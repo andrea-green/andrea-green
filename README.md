@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋+I'm+Andrea!)](https://git.io/typing-svg)
 
 
-## I am a passionate and creative full stack software engineer from Montana. 
+## I am a passionate and creative full stack software engineer with a healthcare background. 
 
 - 🌱 I studied at AppAcademy and Seattle University. 
 - :grin: I'm currently learning Python. 
